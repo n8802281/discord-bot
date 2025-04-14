@@ -59,3 +59,9 @@ Provides full YouTube music streaming functionality via `ytdl-core`.
    ```bash
    node mybot.js
    node mymusicbot.js
+
+---
+
+## 📌 Disclaimer
+This project was created for educational and recreational purposes.
+Some command names and audio references were originally designed for private humor use and may be modified or disabled in a production setting.
